@@ -1,1 +1,1 @@
-print "Football game is progress"
+print "Football game in progress"
